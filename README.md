@@ -1,5 +1,5 @@
 # Simple-Steam-Bot
-Special thanks and credits to mastodonte steam bot for the basis of the code.
+Steam Bot Source
 
 What does it exactly do?
 -
@@ -7,6 +7,7 @@ What does it exactly do?
 - Option to set a reminder.
 
 Ideal source for understanding how bot works in Steam :)
+Special thanks and credits to mastodonte steam bot for the basis of the code.
 
 Dependency
 -
